@@ -2,7 +2,7 @@ body {
   font: Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  background-color: #fad5d5;
+  background-color: #fffcab;
 }
 
 .container {
@@ -30,7 +30,7 @@ header {
   color: white;
   padding-top: 30px;
   min-height: 70px;
-  border-bottom: #e8491d 3px solid;
+  border-bottom: #fffcab 3px solid;
 }
 
 header a {
@@ -60,7 +60,7 @@ header nav {
 
 header .highlight, /*헤더 안에 있는 하이라이트 클래스 색 지정*/
 header .current a {
-  color: #e8491d;
+  color: #fff766;
   font-weight: bold;
 }
 
@@ -111,7 +111,7 @@ header a:hover {
 
 .button_1 {
   height: 38px;
-  background-color: #e8491d;
+  background-color: #a1a1a1;
   border: 0;
   padding: 0 20px;
   color: white;
@@ -160,7 +160,7 @@ footer {
   padding: 20px;
   margin-top: 20px;
   color: white;
-  background-color: #e8491d;
+  background-color: #a1a1a1;
   text-align: center;
 }
 
